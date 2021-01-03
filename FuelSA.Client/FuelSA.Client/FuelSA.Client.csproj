@@ -1,7 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+	<PackageId>FuelSA.Client</PackageId>
+	<Version>1.0.0</Version>
+	<Title>Fuel SA .NET Core Client</Title>
+	<ProjectUrl>https://github.com/naileddigital/fuelsa-netcore-client</ProjectUrl>
+	<RepositoryUrl>https://github.com/naileddigital/fuelsa-netcore-client</RepositoryUrl>	
+	<Authors>Rudolph Koegelenberg</Authors>
+	<Company>Nailed Digital</Company>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <TargetFramework>netcoreapp3.1</TargetFramework>	
   </PropertyGroup>
 
 </Project>
